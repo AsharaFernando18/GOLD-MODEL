@@ -1,0 +1,20 @@
+# Core Trading & Data
+# MetaTrader5>=5.0.45  # Windows only - use mock for Linux/Mac testing
+pandas>=2.0.0
+numpy>=1.24.0
+yfinance>=0.2.28
+
+# Machine Learning & Optimization
+xgboost>=2.0.0
+scikit-learn>=1.3.0
+optuna>=3.4.0
+
+# Technical Analysis
+ta>=0.11.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+python-dateutil>=2.8.2
